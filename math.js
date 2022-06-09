@@ -15,7 +15,7 @@ function divisao(a, b) {
     return resultado
 }
 
-function multiplicacao(a, b) {
+function multiplicacao(a, b) {  
     let resultado = a * b 
     return resultado
 }
